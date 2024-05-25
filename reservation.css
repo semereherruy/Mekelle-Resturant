@@ -1,0 +1,84 @@
+body{
+    background-image: url('reserve.jpg'); 
+    color:white;
+}
+.header{
+    color:goldenrod;
+    text-align: center;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container {
+    margin-left: 50px;
+    font-size: 25px;
+    padding-top: 20px;
+    padding-left: 65px;
+}
+.container div form div input {
+    border-radius: 3px;
+    size: 30px;
+}
+.lastname {
+    margin-left: 40%;
+    margin-top: -25px;
+}
+#timelabel{
+    margin-left: 10%;
+}
+.place {
+    margin-left: 50px;
+}
+#textbox {
+    margin-left: 15%;
+    border-radius: 10px;
+}
+#submit{
+    background-color: orange;
+    margin-left: 40%;
+    border-radius: 20px;
+    height: 40px;
+    width: 250px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li a {
+    font-size: 25px;
+    margin-left: 200px;
+    text-align: center;
+    padding-left:15px;
+    padding-right:15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+li a:hover{
+    background-color: brown;
+    border-radius: 15px;
+}
+a:link, a:visited {
+    color: white;
+    text-decoration:none;
+}
+.footer{
+    background-color:#f8ad51;
+}
+.info {
+    margin-left: 20px;
+    padding: 30px;
+    display: inline-block;
+}
+.address {
+    margin-top: -130px;
+    text-align: left;
+    margin-left: 75%;
+    color: white;
+    font-size: medium;
+}
+.socialmedia{
+    margin:auto auto auto 50%;
+}

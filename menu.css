@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    align-content: left;
+    display:inline-block;
+    margin-top:30px;
+    margin-left: 20px;
+    width:150px;
+}
+.container {
+    background-image: url('menu.jpg');
+}
+.food-menu {
+    margin-left: 100px;
+    align-content: center;
+    margin-top: -100px;
+}
+section h1 {
+    font-size: 80px;
+    color: aliceblue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 30px;
+}
+section div figure {
+    display: inline-block;
+    color: whitesmoke;
+    font-size: 20px;
+}
+.drink-menu{
+    margin-left: 100px;
+    align-content: center;
+}
+#pasta, #ngus {
+    margin-bottom: -25px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li a {
+    font-size: 25px;
+    margin-left: 200px;
+    text-align: center;
+    padding-left:15px;
+    padding-right:15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+li a:hover{
+    background-color: brown;
+    border-radius: 15px;
+}
+a:link, a:visited {
+    color: white;
+    text-decoration:none;
+}
+.footer{
+    background-color:#f8ad51;
+}
+.info {
+    margin-left: 20px;
+    padding: 30px;
+    display: inline-block;
+}
+.address {
+    margin-top: -130px;
+    text-align: left;
+    margin-left: 75%;
+    color: white;
+    font-size: medium;
+}
+.socialmedia{
+    margin:auto auto auto 50%;
+}
